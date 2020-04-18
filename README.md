@@ -33,3 +33,8 @@ spring framework 기반 웹 사이트
 10. 댓글 추천,비추천 기능
 11. 댓글 CRUD
 12. 관리자 회원 정보 목록
+
+# 시연 영상
+[link keyword][id]
+
+[id]: URL "https://www.youtube.com/watch?v=pCJG-2w-MXA"
