@@ -4,7 +4,7 @@ spring framework 기반 웹 사이트
 
 
 # 개발 환경
-JDK 1.8
+1. JDK 1.8
 Java 8
 Tomcat Server 9.0
 Spring
