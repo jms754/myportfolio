@@ -35,6 +35,6 @@ spring framework 기반 웹 사이트
 12. 관리자 회원 정보 목록
 
 # 시연 영상
-[시연 영상 바로가기][id]
+Link: [시연 영상 바로가기][youtubelink]
 
-[id]: URL "https://www.youtube.com/watch?v=pCJG-2w-MXA"
+[youtubelink]: https://www.youtube.com/watch?v=pCJG-2w-MXA "Go youtube"
