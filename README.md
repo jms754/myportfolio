@@ -38,3 +38,13 @@ spring framework 기반 웹 사이트
 ### [시연 영상 바로가기][youtubelink]
 
 [youtubelink]: https://www.youtube.com/watch?v=pCJG-2w-MXA "Go youtube"
+
+# 보안 계획
+1. 상품 리스트 추가
+2. 상품 상세 페이지 추가
+3. 장바구니 구현
+4. 주문서 작성/결제 구현
+5. 주문내역 구현
+6. 주문 상세 내역 구현
+7. 관리자 주문 관리,게시판 관리 기능 구현
+8. 적립금 기능 구현
